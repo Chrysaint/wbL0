@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "mir-logo.svg",
+    "number": "1234 56•• •••• 1234",
+    "runout": "09/30"
+  },
+  {
+    "id": 2,
+    "img": "visa.svg",
+    "number": "1234 56•• •••• 1234",
+    "runout": "04/28"
+  },
+  {
+    "id": 3,
+    "img": "mastercard.svg",
+    "number": "1234 56•• •••• 1234",
+    "runout": "01/31"
+  },
+  {
+    "id": 4,
+    "img": "maestro.svg",
+    "number": "1234 56•• •••• 1234",
+    "runout": "04/25"
+  }
+]

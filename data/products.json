@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка UZcotton мужская",
+    "image": "1.jpg",
+    "price": 1051,
+    "color": "белый",
+    "size": 56,
+    "discount": 0.55,
+    "stock": [
+      {
+        "stockName": "Коледино WB",
+        "quantity": 4
+      }
+    ],
+    "company": "ООО Вайлберриз"
+  },
+  {
+    "id": 2,
+    "name": "Силиконовый чехол картхолдер (отверстия) для карт, прозрачный кейс бампер на Apple iPhone XR, MobiSafe",
+    "image": "2.jpg",
+    "price": 11500,
+    "color": "прозрачный",
+    "discount": 0.55,
+    "stock": [
+      {
+        "stockName": "Коледино WB",
+        "quantity": 184
+      },
+      {
+        "stockName": "Электросталь WB",
+        "quantity": 50
+      }
+    ],
+    "company": "OOO Мегапрофстиль"
+  },
+  {
+    "id": 3,
+    "name": "Карандаши цветные Faber-Castell \\\"Замок\\\", набор 24 цвета, заточенные, шестигранные, Faber-Castell",
+    "image": "3.jpg",
+    "price": 475,
+    "discount": 0.55,
+    "stock": [
+      {
+        "stockName": "Коледино WB",
+        "quantity": 2
+      }
+    ],
+    "company": "OOO Вайлдберриз"
+  }
+]
