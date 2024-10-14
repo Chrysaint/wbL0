@@ -1,4 +1,4 @@
-import items from "../../data/products.json" assert { type: "json" };
+import items from "../../data/products.json";
 
 const itemList = document.querySelector(".cart-inner__available-items");
 const unavailableItemList = document.querySelector(
