@@ -1,4 +1,4 @@
-import items from "../../data/products.json" assert { type: "json" };
+import items from "../../data/products.json" with { type: "json" };
 
 function numberWithSpaces(number) {
   return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
